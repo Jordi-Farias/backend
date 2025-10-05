@@ -24,4 +24,3 @@ FUNCIONES proyecto
     ('Proyecto 1', 'Descripción del proyecto 1', 'Integrante 1, Integrante 2', 'http://link1.com', true),
     ('Proyecto 2', 'Descripción del proyecto 2', 'Integrante A, Integrante B', 'http://link2.com', true),
     ('Proyecto 3', 'Descripción del proyecto 3', 'Integrante X, Integrante Y', 'http://link3.com', false);
-# backend
